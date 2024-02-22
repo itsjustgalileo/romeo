@@ -46,3 +46,11 @@ USAGE:
 ./romeo -s 128k -f 0x68 -o my_rom.bin
 ```
 
+---
+
+## REFERENCES
+
+* [Ben eater's 6502 "hello, world" series](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)
+
+---
+
